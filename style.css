@@ -58,3 +58,19 @@ img{
 p{
     /* width: 50%; */
 }
+.four_products{
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+footer{
+    color: grey;
+    text-align: center;
+}
+/* .img-icon{
+    background-color: aqua;
+    height: 50px;
+    width: 100%;
+} */
+ .img-s{
+    background-color: blueviolet;
+ }
