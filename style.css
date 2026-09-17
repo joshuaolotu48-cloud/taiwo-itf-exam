@@ -46,3 +46,15 @@ p{
     display: flex;
     /* gap: 20px; */
 }
+.section2{
+    display: flex;
+    flex-wrap: wrap;
+    /* grid-template-columns: repeat(4, 1fr); */
+}
+/* position absolute */
+img{
+    border-radius: 10px;
+}
+p{
+    /* width: 50%; */
+}
