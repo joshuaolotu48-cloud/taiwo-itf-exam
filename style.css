@@ -60,7 +60,7 @@ p{
 }
 .four_products{
     display: flex;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
 }
 footer{
     color: grey;
@@ -72,5 +72,6 @@ footer{
     width: 100%;
 } */
  .img-s{
-    background-color: blueviolet;
+    background-color: rgb(248, 110, 10);
+    padding: 20px;
  }
